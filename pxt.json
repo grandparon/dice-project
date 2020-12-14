@@ -1,5 +1,5 @@
 {
-    "name": "Dice-Project",
+    "name": "dice-project",
     "description": "",
     "dependencies": {
         "core": "*",
