@@ -36,11 +36,11 @@ basic.forever(function () {
             `)
     } else if (5 == our_random_number) {
         basic.showLeds(`
-            . . . . .
-            . . . . .
-            . . . . .
+            # . . . #
             . . . . .
             . . # . .
+            . . . . .
+            # . . . #
             `)
     } else {
         basic.showLeds(`
