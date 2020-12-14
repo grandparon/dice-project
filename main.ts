@@ -11,28 +11,28 @@ basic.forever(function () {
             `)
     } else if (2 == our_random_number) {
         basic.showLeds(`
+            # . . . .
             . . . . .
             . . . . .
             . . . . .
-            . . . . .
-            . . # . .
+            . . . . #
             `)
         basic.pause(500)
     } else if (3 == our_random_number) {
         basic.showLeds(`
-            . . . . .
-            . . . . .
-            . . . . .
+            # . . . .
             . . . . .
             . . # . .
+            . . . . .
+            . . . . #
             `)
     } else if (4 == our_random_number) {
         basic.showLeds(`
+            # . . . #
             . . . . .
             . . . . .
             . . . . .
-            . . . . .
-            . . # . .
+            # . . . #
             `)
     } else if (5 == our_random_number) {
         basic.showLeds(`
