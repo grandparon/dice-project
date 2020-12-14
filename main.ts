@@ -5,9 +5,9 @@ basic.forever(function () {
         basic.showLeds(`
             . . . . .
             . . . . .
-            . . . . .
-            . . . . .
             . . # . .
+            . . . . .
+            . . . . .
             `)
     } else if (2 == our_random_number) {
         basic.showLeds(`
